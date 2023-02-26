@@ -1,0 +1,8 @@
+I have tried my best to clone the reddit log page and this is how far I have gotten considering the time limitations. I have written about the issues I faced and what I learned through this
+project. 
+I gave it a second attempt after coming to know how wrong my first code was although it looked closer to the actual page. In the second attempt, I tried to go by the book and ran into some 
+problems with the flexbox property and made it worse while trying to fix it. Also I have not used relative links to the images so I think those will not work on any other pc, I will try to
+use that in future projects.
+I have learned about hover, padding and several other core concepts in css through this project and most importantly, this project showed me what exactly I have to work on and what more I 
+have to learn.
+Thank you.
